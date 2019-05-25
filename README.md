@@ -1,6 +1,6 @@
 | Repo Size        | Hits           | Used Language|
 | ------------- |:-------------:| :-------------:| 
-| ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/jciccio/codename_wacky_racers_builds.svg?style=for-the-badge)      | [![HitCount](http://hits.dwyl.com/jciccio/programacion1-19.svg)](http://hits.dwyl.com/jciccio/programacion1-19) | C#|
+| ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/jciccio/codename_wacky_racers_builds.svg?style=for-the-badge)      | [![HitCount](http://hits.dwyl.com/jciccio/codename_wacky_racers_builds.svg)](http://hits.dwyl.com/jciccio/codename_wacky_racers_builds) | C#|
 
 # codename_wacky_racers_builds
 Game builds for racing game made for Tech Talk
